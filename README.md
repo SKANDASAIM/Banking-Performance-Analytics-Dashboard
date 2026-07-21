@@ -156,8 +156,8 @@ During this project, I gained hands-on experience in:
 
 **Skanda Sai M**
 
-- 📧 Email: *your-email@example.com*
-- 💼 LinkedIn: *https://linkedin.com/in/your-profile*
+- 📧 Email: *skandasaim@gmail.com*
+- 💼 LinkedIn: *www.linkedin.com/in/skanda-sai-m-20a9a52a1.*
 - 💻 GitHub: *https://github.com/SKANDASAIM*
 
 ---

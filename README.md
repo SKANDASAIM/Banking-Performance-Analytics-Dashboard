@@ -88,17 +88,8 @@ The Banking Performance Analytics Dashboard is designed to help banking professi
 
 ## 📷 Dashboard Preview
 
-> *(Add screenshots of your dashboard here)*
+<img width="1370" height="766" alt="Screenshot 2026-07-22 115725" src="https://github.com/user-attachments/assets/56e1fb73-78a4-445b-814d-d9b9a019c588" />
 
-Example:
-
-```
-Images/
-│── Summary Dashboard.png
-│── Loan Analysis.png
-│── Deposit Analysis.png
-│── Drill Through.png
-```
 
 ---
 

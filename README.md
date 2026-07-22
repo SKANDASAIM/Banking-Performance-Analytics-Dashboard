@@ -88,9 +88,14 @@ The Banking Performance Analytics Dashboard is designed to help banking professi
 
 ## 📷 Dashboard Preview
 
-<img width="1370" height="766" alt="Screenshot 2026-07-22 115725" src="https://github.com/user-attachments/assets/56e1fb73-78a4-445b-814d-d9b9a019c588" />
-
-
+- Home
+<img width="1376" height="772" alt="Screenshot 2026-07-22 114825" src="https://github.com/user-attachments/assets/cf421c8c-6a1b-4ebd-96c6-c482b19d0954" />
+- Loan Analysis
+<img width="1373" height="770" alt="Screenshot 2026-07-22 115614" src="https://github.com/user-attachments/assets/04d66f28-d63f-4540-a8f1-1a380f008ef0" />
+- Deposit Analysis
+<img width="1372" height="766" alt="Screenshot 2026-07-22 115658" src="https://github.com/user-attachments/assets/79b38688-722f-4eda-a607-0da11793ad3e" />
+- Summary
+<img width="1370" height="766" alt="Screenshot 2026-07-22 115725" src="https://github.com/user-attachments/assets/2b9af907-67e4-40cc-9125-cbc0f3fa2db4" />
 ---
 
 ## 📂 Project Structure
